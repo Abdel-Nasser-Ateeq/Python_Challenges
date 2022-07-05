@@ -30,3 +30,5 @@ if __name__ == '__main__':
     for i in output:
         print(i[0])
         # print(i[1])
+# The challenge is available via this link:
+# https://www.hackerrank.com/challenges/nested-list
